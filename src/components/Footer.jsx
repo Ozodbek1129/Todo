@@ -4,10 +4,10 @@ export default function Footer() {
       Powered by{" "}
       <a
         className="underline"
-        href="https://github.com/ABDU-07"
+        href="https://github.com/Ozodbek1129"
         target="_blank"
       >
-        Abdurahmon
+        Ozodbek
       </a>
     </footer>
   );
